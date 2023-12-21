@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CheckEmail</string>
+    <string name="email">Email</string>
+    <string name="check_email">Check Email</string>
+    <string name="inter_valid_email">Inter valid Email</string>
+</resources>
